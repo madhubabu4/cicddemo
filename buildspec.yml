@@ -11,7 +11,7 @@ phases:
     commands:
       - echo "the build phase begins"
       # - echo `pwd`
-      - npm start
+      # - npm start
       # - echo `ls -la`
 
   post_build:
